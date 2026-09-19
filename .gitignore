@@ -40,6 +40,9 @@ yarn-error.log*
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
+<<<<<<< HEAD
 
+=======
+>>>>>>> ebbd5663781fa6206bbfd0bb7c2216d311d77c7d
 # Backend uploads
 Backend/Uploads/
